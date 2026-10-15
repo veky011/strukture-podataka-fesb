@@ -18,5 +18,11 @@
     <ClCompile Include="lab1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lab2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="popis.txt" />
   </ItemGroup>
 </Project>
