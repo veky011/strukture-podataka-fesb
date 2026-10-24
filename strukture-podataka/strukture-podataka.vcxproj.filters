@@ -21,8 +21,15 @@
     <ClCompile Include="lab2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lab3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="linkedlist.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="popis.txt" />
+    <Text Include="..\x64\Debug\output.txt" />
   </ItemGroup>
 </Project>
